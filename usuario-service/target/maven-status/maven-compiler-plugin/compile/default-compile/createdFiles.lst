@@ -1,0 +1,6 @@
+com\example\usuario_service\dto\UsuarioDTO.class
+com\example\usuario_service\service\UsuarioService.class
+com\example\usuario_service\repository\UsuarioRepository.class
+com\example\usuario_service\UsuarioServiceApplication.class
+com\example\usuario_service\model\Usuario.class
+com\example\usuario_service\controller\UsuarioController.class
